@@ -1,4 +1,4 @@
-# Healthcare Risk Modeling Case Study: A $23.8k Insight Analysis
+# Healthcare Risk & Cost Analysis: A $23.8k Smoking Insight
 
 ## Project Goal: 
 - Accurate cost prediction is critical across the healthcare industry. I analyzed 1,338 records to identify which demographic and lifestyle factors drive medical cost differences to inform data-driven decision-making across clinical and operational contexts..
