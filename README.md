@@ -1,7 +1,7 @@
 # Healthcare Risk Modeling Case Study: A $23.8k Insight Analysis
 
 ## Project Goal: 
-- Accurate cost prediction is critical across the healthcare industry. I analyzed 1,338 records to identify which demographic and lifestyle factors drive medical cost differences to inform risk-based pricing decisions.
+- Accurate cost prediction is critical across the healthcare industry. I analyzed 1,338 records to identify which demographic and lifestyle factors drive medical cost differences to inform data-driven decision-making across clinical and operational contexts..
 
 ## Methodology: 
 - **Data Integrity & Prep:** Conducted data validation and outlier analysis in Python (Pandas), ensuring statistical assumptions were met prior to modeling. Encoded categorical variables to enable regression-based modeling.
