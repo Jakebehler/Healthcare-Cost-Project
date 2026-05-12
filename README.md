@@ -4,7 +4,7 @@
 - Accurate cost prediction is critical across the healthcare industry. I analyzed 1,338 records to identify which demographic and lifestyle factors drive medical cost differences to inform data-driven decision-making across clinical and operational contexts.
 
 ## Methodology: 
-- **Data Integrity & Prep:** Conducted data validation and outlier analysis in Python (Pandas), ensuring statistical assumptions were met prior to modeling. Encoded categorical variables to enable regression-based modeling.
+- **Data Integrity & Prep:** Explored data distributions and identified outliers visually in Python (Pandas), ensuring statistical assumptions were met prior to modeling. Encoded categorical variables to enable regression-based modeling.
 - **Statistical Modeling:** Built a Multiple Linear Regression (OLS) model to isolate and quantify each variable’s independent contribution to annual healthcare charges. Achieved an Adjusted R² of 0.75, indicating strong explanatory power.
 - **Visual Storytelling:** Developed an interactive Tableau dashboard using parameterized filters and custom calculations to translate abstract statistical coefficients into actionable financial insights.
 
