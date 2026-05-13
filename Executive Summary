@@ -3,8 +3,8 @@ Jake (John) Behler
 3/25/2026
 
 Executive Summary:
-Smokers drive medical costs up by approximately 280%, representing an average increase of $23,848 per patient.
-This analysis is based on an OLS regression model with an R-Squared of 0.7509, indicating that the model explains 75% of the variance in total charges.
+Smokers drive medical costs up by approximately 280%, representing an average increase of $23,080 per patient.
+This analysis is based on an OLS regression model with an R-Squared of 0.73, indicating that the model explains 73% of the variance in total charges.
 
 Strategic Overview:
 Smoking & BMI
