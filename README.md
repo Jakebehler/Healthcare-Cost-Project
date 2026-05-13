@@ -9,8 +9,8 @@
 - **Visual Storytelling:** Developed an interactive Tableau dashboard using parameterized filters and custom calculations to translate abstract statistical coefficients into actionable financial insights.
 
 ## Key Finding: 
-- **The $23.8k Smoking Impact:** Smoker status is the dominant cost driver, driving an average increase of $23,848 in annual charges, holding age, BMI, and region constant.
-- **BMI/Age Scale:** Each additional BMI unit and year of age increases annual charges by approximately $339 and $256, respectively, indicating a steady, linear growth in risk.
+- **The $23k Smoking Impact:** Smoker status is the dominant cost driver, driving an average increase of $23,080 in annual charges, holding age, BMI, and region constant.
+- **Children/BMI Impact:** Each additional child and BMI increases annual charges by approximately $533 and $318, respectively, indicating a steady, linear growth in risk.
 - **Conclusion:** Results indicate that lifestyle factors are significantly stronger predictors of cost than geographic variables, suggesting that targeted intervention programs would be more effective than region-based approaches.
 
 ## Strategic Business Application:
